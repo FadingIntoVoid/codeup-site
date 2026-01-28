@@ -1,4 +1,3 @@
-import { Monitor, LayoutTemplate, Settings } from "lucide-react";
 
 function Services() {
   return (
